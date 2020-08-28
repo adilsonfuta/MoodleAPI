@@ -1,0 +1,9 @@
+1: executar esse comando no terminal, para subir o server json
+
+json-server -p 3333 -d 1000 database/db.json
+
+2: clicar  no url :
+
+ http://localhost:3333/students
+
+

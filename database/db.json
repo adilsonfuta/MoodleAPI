@@ -1,0 +1,35 @@
+{
+    
+"students": [
+    {
+        "username":"student1",
+        "firstname": "Student",
+        "lastname": "One",
+        "email": "s1@example.com",
+        "course1": "math102",
+        "group1": "groupA",
+        "cohort1": "cohortZ"
+    },
+
+    {
+        "username":" student2",
+        "firstname": "Student",
+        "lastname": "Two",
+        "email": "s2@example.com",
+        "course1": "math102",
+        "group1": "groupB",
+        "cohort1": ",cohort Y"
+    }, 
+    {
+        "username":"student3",
+        "firstname": "Student",
+        "lastname": "Three",
+        "email": "s3@example.com",
+        "course1": "math102",
+        "group1": "groupA",
+        "cohort1": "cohortZ"
+    }
+]
+}
+
+
